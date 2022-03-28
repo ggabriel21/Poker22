@@ -31,6 +31,7 @@ A presente solução comporta uma evolução para game "ingênuo" e didático co
 
 ## 2. Getting Started NOW!!!
 
+**Todos os arquivos devem ser baixados e instalados em um mesmo diretório, de onde o programa poker22.py será executado!**
 
 **==> Programa Principal  _poker22.py_**
 
